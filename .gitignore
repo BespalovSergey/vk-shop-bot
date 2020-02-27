@@ -1,0 +1,5 @@
+venv
+cod_exemple.py
+*.db
+.idea
+__pycache__/
